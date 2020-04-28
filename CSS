@@ -1,0 +1,70 @@
+body {
+font-family: arial, sans-serif;
+background:#fff;
+color:#222;
+font-size: small;
+}
+
+.navbar {
+  list-style-type: none;
+}
+
+.navbtnl { float:left;
+  margin: 0px;
+  padding:8px;
+}
+
+.navbtnr { float:right;
+  margin: 0px;
+  padding:8px;
+}
+
+#logo {
+  height:25%;
+  width:25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#searchbtn {
+font-family: arial, sans-serif;
+display:inline-block;
+
+}
+
+#feelinglucky {
+  font-family: arial, sans-serif;
+  display:inline-block;
+}
+
+#buttons
+
+{ text-align: center;
+  padding-bottom: 10px;
+}
+
+#footerbar
+{
+  bottom: 0;
+  position: fixed;
+  width;100%;
+  background:grey;
+  height:50px;
+}
+
+footer {
+  background-color: grey;
+}
+
+#searchbar
+{
+text-align:center;
+  margin-bottom: 5px;
+  width=20px;
+  font-size: : 16px;
+  border-radius: 5px;
+  display:block;
+
+
+}
